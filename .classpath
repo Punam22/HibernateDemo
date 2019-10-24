@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
+	<classpathentry kind="lib" path="C:/Users/punam.patil/Downloads/mysql-connector-java-8.0.17/mysql-connector-java-8.0.17/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punam.patil/Downloads/hibernate-release-5.4.5.Final/hibernate-release-5.4.5.Final/lib/osgi/hibernate-osgi-5.4.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punam.patil/Downloads/hibernate-release-5.4.5.Final/hibernate-release-5.4.5.Final/lib/osgi/javax.interceptor-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punam.patil/Downloads/hibernate-release-5.4.5.Final/hibernate-release-5.4.5.Final/lib/osgi/org.osgi.compendium-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punam.patil/Downloads/hibernate-release-5.4.5.Final/hibernate-release-5.4.5.Final/lib/osgi/org.osgi.core-6.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punam.patil/Downloads/hibernate-release-5.4.5.Final/hibernate-release-5.4.5.Final/lib/envers/hibernate-envers-5.4.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punam.patil/Downloads/hibernate-release-5.4.5.Final/hibernate-release-5.4.5.Final/lib/optional/ehcache/ehcache-2.10.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punam.patil/Downloads/hibernate-release-5.4.5.Final/hibernate-release-5.4.5.Final/lib/optional/ehcache/hibernate-ehcache-5.4.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/punam.patil/Downloads/hibernate-release-5.4.5.Final/hibernate-release-5.4.5.Final/lib/optional/ehcache/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
